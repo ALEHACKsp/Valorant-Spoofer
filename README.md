@@ -1,36 +1,55 @@
-# SPOOFER HWID
+## **Spoofer** Valorant that Really works 100%
 
-##### # I think that there is no one who does not know the AMIDEWIN method. Do not try to install 2 hours on usb and boot from the bios. It works for most people. It works for most people. It does not work for most people. Even when it works, we see that vanguard still bans it. What this program does is a spoofer now. Normally, the program is paid but we have a foreign friend named "Apidute". He scribbled it and shared it. I am using it, there is no problem for now. Anyway, I'm telling you what to do.
+###### Hi , Valorant bans HWID. If you're in no hurry, you only have to wait 90 days / 3 months, or buy a fake to unban from a large number of sites. Today I'm going to give away bans that actually work and hope you won't use cheats a second time. Because I don't know if the second round can unban or not, please follow every step carefully.
+##### ❌ Can't cancel from a banned account.
+##### ❌ Do not Login Account, an account that has been banned or an account that has been logged in.
+##### ❌ Do not take advantage
+##### ❌ Windows 10 versions 21H1 - 21H2 and Windows 11 are not supported.
+##### ❌ Do not skip any steps / do one item at a time.
+##### ✅ Apply for a new account after completing all steps 
+*****
 
-##### Even though the processes seem very long, I only have to explain in detail, it will not take 10-15 minutes. Have a nice game :) 
+## 1 ) First you need to delete VGC / VGK.
 
-***
-# 1
-__Run CMD as administrator and type these two commands in order__
- > # sc delete vgc
- > # sc delete vgk
+### Run CMD by Run as administrator 
 
-***
+```
+sc delete vgc
+sc delete vgk
+```
 
-Then go to the uninstall program section of the control panel and remove anything related to valorant or vanguard.
-Go to the location where you installed valorant and delete all valorant files.
-Then restart your computer.
-NOTE: I recommend you to format directly, but still, you know, I am telling you for friends who do not work.
+*****
 
-Now let's come to our spoof process. We download our "Lydian Spoofer" from the link I gave below. Run the program.
-!!! It will ask you for a license key. You can pass by not typing anything there or you can write something in your head. Since the program is cracked, it will not be a problem 
+## 2 ) Enter Control Panel, remove valorant and vanguard.
 
-![01](https://user-images.githubusercontent.com/85826349/124287003-bd657200-db79-11eb-867c-542bb1cfd5e7.png)
+#### I recommend you to use Revo Uninstaller to remove it because it will remove Reg and residual files.
 
-***
-# 2 
-- ##  **Download** T-Mac generator and change your mac address.
-- ## **Download** Hard Disk Serial Number Changer and change your disk numbers.
-![02](https://user-images.githubusercontent.com/85826349/124288379-50eb7280-db7b-11eb-9650-1e671f8ed3ea.png)
+#### Windows + R = %temp% Deletes all files in that folder. Which one can't be deleted, press Skip.
 
-***
-## Lydian Spoofer 
 
-## Support Windows Version : 2004 , 2009 , 20H1 , 20H2 Not Support Windows 10 21H1 - 21H2 , Windows 11 
-***
+
+## 3 ) Lydian Spoofer 
+
+![124287003-bd657200-db79-11eb-867c-542bb1cfd5e7](https://user-images.githubusercontent.com/85826349/125176101-03b27500-e1fb-11eb-8c32-e94809ac0573.png)
+
+#### 1) Run Lydian Spoofer as Run as administrator
+#### 2) If it prompts you for a password, you can either hit enter or type anything in. Because it's a program that I cracked and it's safe.
+#### 3) Press 1 / 2 / 3 / 4 in a row.
+
+*****
+
+## 4) TMAC /  HardDisk Change Number
+
+#### Download TMAC [Click Here](https://technitium.com/tmac/)
+#### Download HardDisk Change Number [Click Here](https://hard-disk-serial-number-changer.th.softonic.com/)
+![124288379-50eb7280-db7b-11eb-9650-1e671f8ed3ea](https://user-images.githubusercontent.com/85826349/125176229-0eb9d500-e1fc-11eb-819a-9bd5303df010.png)
+
+### After that, change TMAC and Hard Disk. ( All Disk C / D / E / F )
+
+****
+
+## 5 ) Restart PC / Turn off the Internet router for 1 minute.
+
+****
+
 
