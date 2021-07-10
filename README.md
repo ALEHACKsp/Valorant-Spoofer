@@ -6,7 +6,7 @@
 ##### ❌ Do not take advantage
 ##### ❌ Windows 10 versions 21H1 - 21H2 and Windows 11 are not supported.
 ##### ❌ Do not skip any steps / do one item at a time.
-##### ✅ Apply for a new account after completing all steps 
+##### ✅ Apply for a new account after Restart PC 
 *****
 
 ## 1 ) First you need to delete VGC / VGK.
