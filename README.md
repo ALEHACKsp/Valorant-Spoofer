@@ -27,6 +27,7 @@ sc delete vgk
 
 #### Windows + R = %temp% Deletes all files in that folder. Which one can't be deleted, press Skip.
 
+*****
 
 
 ## 3 ) Lydian Spoofer 
